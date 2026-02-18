@@ -1,0 +1,17 @@
+# MacOs
+.DS_Store
+
+#Terraform/OpenTofu
+**.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+
+# Python
+_pycache_/
+*.pyc
+
+# logs and temp
+*.log
+tmp/
